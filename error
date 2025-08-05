@@ -1,0 +1,258 @@
+esting different endpoints...
+
+🔧 Testing: /
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response: 
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /health
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /status
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /ping
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /api/health
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /v1/health
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /models
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /v1/models
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /api/models
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /chat/completions
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /v1/chat/completions
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /api/chat/completions
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /completions
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing: /v1/completions
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔍 Testing POST endpoints for chat...
+
+🔧 Testing POST: /chat/completions
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing POST: /v1/chat/completions
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing POST: /api/chat/completions
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing POST: /completions
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+🔧 Testing POST: /v1/completions
+   Status: 200
+   Content-Type: text/html; charset=utf-8
+   ✅ SUCCESS!
+   Response:
+
+<!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
+<!DOCTYPE html>
+<html dir="ltr" class="" lang="en">
+<head>
+    <title>Sign in to your account</title>
+    <meta http-equiv="...
+
+==================================================
+📋 SUMMARY
+==================================================
+💡 Look for endpoints that return:
+   - Status 200 with JSON response
+   - Models endpoint that lists available models
+   - Chat endpoint that accepts POST requests
